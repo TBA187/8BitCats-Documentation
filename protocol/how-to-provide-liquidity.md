@@ -9,7 +9,7 @@ In order to earn daily rewards through yield farming, you need to stake your LP 
 \ [https://www.8bitcats.com/farms](https://www.8bitcats.com/farms) 
 \
 Choose either CATCOINS-USDC LP or CATSHARE-USDC LP, depending which pool you provided liquidity for.\
-In order to stake, you first need to approve the contract by pressing the 'Aprove' button on the page. Thereafter you can stake your LP Token by pressing the '+' button on the page. Your LP token is now staked and you can enjoy daily reward returns in CATSHARE (the amount depends on the APR shown in the pool you are staked in).\
+In order to stake, you first need to approve the contract by pressing the 'Approve' button on the page. Thereafter you can stake your LP Token by pressing the '+' button on the page. Your LP token is now staked and you can enjoy daily reward returns in CATSHARE (the amount depends on the APR shown in the pool you are staked in).\
 \
 As you are earning staking rewards, you should consider compounding your fees, meaning claim your CATSHARE rewards and stake it in the Boardroom:\
 [https://www.8bitcats.com/boardroom](https://www.8bitcats.com/boardroom)\
